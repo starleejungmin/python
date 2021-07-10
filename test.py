@@ -1,3 +1,0 @@
-print("teest")
-
-print("teee")
